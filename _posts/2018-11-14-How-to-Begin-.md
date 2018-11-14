@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: How to Begain 
 ---
 ![Give Your Photo A Title](/images/america-american-flag-architecture-450597.jpg)
 
