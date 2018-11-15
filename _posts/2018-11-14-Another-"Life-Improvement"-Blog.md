@@ -19,5 +19,6 @@ During this set of blogs I will be Takleing major points and I deas that you shu
   * Execises
   * Styles 
   * etc... 
+
 saying that I would like to also mention that this blog is mostly going to focus on the Teens, but also Dad/Mom can folow,
 whith that out of the way come with me my friends & let us begain fresh.
